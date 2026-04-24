@@ -33,18 +33,6 @@
   - 生成日期：`2026-04-24`
 
 
-## 如何复现同源数据
-
-1. 删除本地数据文件 `data/market_data.csv`（可选，仅在你要重拉数据时）。
-2. 运行主程序：
-
-```bash
-py -3 -m pip install -r requirements.txt
-py -3 run_asg_pipeline.py
-```
-
-3. 若本地无数据文件，程序将自动从 Yahoo Finance 拉取并重新生成 `data/market_data.csv`。
-
 ## 主要输出（`reports/`）
 
 - `summary.md`：总览结果与关键配置

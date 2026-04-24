@@ -1,0 +1,11 @@
+selected_factors
+vol_10
+volume_to_ma20
+price_volume_trend_40
+rev_20
+price_volume_cov_5
+price_volume_trend_20
+mom_5
+price_volume_corr_20
+price_volume_cov_10
+price_volume_cov_40

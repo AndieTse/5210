@@ -34,7 +34,7 @@
 
 
 ## 主要输出（`reports/`）
-
+reports/summary.md
 - `summary.md`：总览结果与关键配置
 - `factor_sharpe.csv`：单因子 Sharpe/IC/ICIR
 - `factor_corr.csv`：因子相关性矩阵
